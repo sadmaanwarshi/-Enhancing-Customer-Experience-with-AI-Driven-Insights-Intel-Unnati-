@@ -1,0 +1,52 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+.venv/
+
+# Ignore environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# Ignore database files and vector stores
+*.sqlite3
+*.db
+vectorstore/
+db_faiss/
+
+# Ignore logs
+logs/
+*.log
+nohup.out
+
+# Ignore compiled files
+*.o
+*.out
+*.pyc
+*.pyo
+
+# Ignore IDE & editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore dependency files
+requirements.txt.lock
+yarn.lock
+package-lock.json
+
+# Ignore node_modules (for frontend)
+node_modules/
+dist/
+build/
+
+# Ignore Docker & Deployment files (if not using Docker)
+docker-compose.yml
+.Dockerfile
