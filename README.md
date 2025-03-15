@@ -24,7 +24,7 @@ This project is an AI-powered customer experience chatbot that enables businesse
 
 ### 1. Clone the Repository
 ```bash
- git clone https://github.com/your-username/your-repo-name.git
+ git clone https://github.com/sadmaanwarshi/-Enhancing-Customer-Experience-with-AI-Driven-Insights-Intel-Unnati-.git
  cd your-repo-name
 ```
 
